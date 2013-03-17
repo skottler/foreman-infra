@@ -1,9 +1,6 @@
 [submodule "puppet/modules/concat"]
 	path = puppet/modules/concat
 	url = https://github.com/ripienaar/puppet-concat.git
-[submodule "puppet/modules/jenkins"]
-	path = puppet/modules/jenkins
-	url = git://github.com/rtyler/puppet-jenkins.git
 [submodule "puppet/modules/rvm"]
 	path = puppet/modules/rvm
 	url = git://github.com/blt04/puppet-rvm.git
