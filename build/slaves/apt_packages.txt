@@ -1,0 +1,7 @@
+puppet
+htop
+git
+autoconf
+make
+gcc
+gcc-c++
